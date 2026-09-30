@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DESARROLLO FRONT-END & CASO DE ESTUDIO
+# ⚡ DESARROLLO FRONT-END
 ### 🚀 **KLIK Web Platform** (`klikve.org`)
 
 <p align="center">
